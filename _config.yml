@@ -1,30 +1,30 @@
-title: Gedda's Tech Blog
-author: GitHub User
-email: tech-blog@gedda.se
-description: > # this means to ignore newlines until "show_exerpts:"
-  Small-time tech blog.
-show_excerpts: true # set to true to show excerpts on the homepage
+#title: Gedda's Tech Blog
+#author: GitHub User
+#email: tech-blog@gedda.se
+#description: > # this means to ignore newlines until "show_exerpts:"
+#  Small-time tech blog.
+#show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-sass:
-  sass_dir: _sass
-plainwhite:
-  name: Magnus Gedda
-  tagline: Developer. Retro nerd
-  date_format: "%b %-d, %Y"
-  sitemap: true # set to true to generate sitemap.xml content
+#sass:
+#  sass_dir: _sass
+#plainwhite:
+#  name: Magnus Gedda
+#  tagline: Developer. Retro nerd
+#  date_format: "%b %-d, %Y"
+#  sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
-  social_links:
+#  social_links:
     # twitter: gedda
-    github:  mgedda
-    linkedIn: in/gedda
+#    github:  mgedda
+#    linkedIn: in/gedda
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    instagram: retroswe
+#    instagram: retroswe
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
@@ -47,8 +47,8 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+#theme: plainwhite
 
-plugins:
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-seo-tag
 #  - jekyll-feed
